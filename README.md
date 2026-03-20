@@ -39,4 +39,3 @@ Run the script to expose your services externally:
 ```bash
 ./run-ngrok.sh
 ```
-
